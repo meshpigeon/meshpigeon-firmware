@@ -20,7 +20,7 @@ documentation only.
 read into the largest memory it can hold, stamps each with uptime, keys up on
 demand, and persists its radio settings. It speaks **no mesh protocol** and
 holds **no keys** — all of that lives in the app
-(`github.com/jhuebert/meshpigeon-android`).
+(`github.com/meshpigeon/meshpigeon-android`).
 
 ### The one review gate
 

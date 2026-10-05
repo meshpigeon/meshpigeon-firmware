@@ -511,7 +511,7 @@ Deliberately, per the product's guiding principles:
 
 ## 14. Reference
 
-- Firmware: `github.com/jhuebert/meshpigeon-firmware` (this repo)
+- Firmware: `github.com/meshpigeon/meshpigeon-firmware` (this repo)
 - Schema: `protobufs/meshpigeon/*.proto` in this repo
 - App implementation: `meshpigeon-app :core-transport`
 - Working on the firmware: `AGENTS.md` (build, layout, conventions, traps)

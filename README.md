@@ -5,7 +5,7 @@
 The dumbest possible durable radio: it receives LoRa packets into the largest
 memory it can hold, stamps each with uptime, keys up when told, and persists
 its radio settings across reboots. **No mesh protocol, no keys, no repeat
-logic** — all of that lives in the [MeshPigeon app](https://github.com/jhuebert/meshpigeon-android).
+logic** — all of that lives in the [MeshPigeon app](https://github.com/meshpigeon/meshpigeon-android).
 
 ```
 ┌──────────────┐   BLE / USB CDC / TCP (protobuf envelopes)

@@ -44,7 +44,7 @@ import "meshpigeon/device.proto";
 import "meshpigeon/radio.proto";
 
 option csharp_namespace = "MeshPigeon.Protos";
-option go_package = "github.com/jhuebert/meshpigeon-firmware/protobufs/meshpigeon";
+option go_package = "github.com/meshpigeon/meshpigeon-firmware/protobufs/meshpigeon";
 option java_multiple_files = true;
 option java_package = "dev.meshpigeon.proto";
 option swift_prefix = "";
